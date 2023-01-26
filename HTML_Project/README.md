@@ -1,6 +1,6 @@
-# Camp Me 🚎
+# DnB Code
 
-<img src="./CampMe-React/src/components/images/logo1.jpg" style="max-width: 600px;">  
+<img src="./HTML_Project/img/logo1.png" style="max-width: 600px;">  
 
 - 주제 : 디엔비코드(가상 웹 페이지 제작업체)페이지 
 - 개요 : 디엔비코드라는 웹페이지 제작업체를 설립했다는 컨셉으로 진행한 프로젝트 입니다.
