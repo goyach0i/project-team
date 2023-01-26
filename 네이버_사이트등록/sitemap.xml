@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	  	  
+<!-- www.check-domains.com sitemap generator -->
+
+<url>
+   <loc>http://dnbcode.dev.s3-website.ap-northeast-2.amazonaws.com/</loc>
+   <lastmod>2022-11-09T08:40:17+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>1.0000</priority>
+</url>
+<url>
+   <loc>http://dnbcode.dev.s3-website.ap-northeast-2.amazonaws.com/main.html</loc>
+   <lastmod>2022-11-09T08:40:17+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://dnbcode.dev.s3-website.ap-northeast-2.amazonaws.com/about_us.html</loc>
+   <lastmod>2022-11-09T08:26:55+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://dnbcode.dev.s3-website.ap-northeast-2.amazonaws.com/Portfolio/portfolio.html</loc>
+   <lastmod>2022-11-09T08:18:40+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://dnbcode.dev.s3-website.ap-northeast-2.amazonaws.com/contact_us.html</loc>
+   <lastmod>2022-11-09T08:26:56+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://dnbcode.dev.s3-website.ap-northeast-2.amazonaws.com/notice.html</loc>
+   <lastmod>2022-11-09T08:26:54+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://dnbcode.dev.s3-website.ap-northeast-2.amazonaws.com/member.html</loc>
+   <lastmod>2022-11-09T08:26:53+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://dnbcode.dev.s3-website.ap-northeast-2.amazonaws.com/directions.html</loc>
+   <lastmod>2022-11-09T08:26:52+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://dnbcode.dev.s3-website.ap-northeast-2.amazonaws.com/Portfolio/center/bin/html/dice.html</loc>
+   <lastmod>2022-11-09T08:18:23+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://dnbcode.dev.s3-website.ap-northeast-2.amazonaws.com/Portfolio/center/bin/html/loTTo.html</loc>
+   <lastmod>2022-11-09T08:18:24+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://dnbcode.dev.s3-website.ap-northeast-2.amazonaws.com/Portfolio/center/bin/html/game.html</loc>
+   <lastmod>2022-11-09T08:18:24+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://dnbcode.dev.s3-website.ap-northeast-2.amazonaws.com/Portfolio/center/do/quiz/quiz.html</loc>
+   <lastmod>2022-11-09T08:18:08+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://dnbcode.dev.s3-website.ap-northeast-2.amazonaws.com/Portfolio/center/bin/html/main.html</loc>
+   <lastmod>2022-11-09T08:18:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://dnbcode.dev.s3-website.ap-northeast-2.amazonaws.com/notice_write.html</loc>
+   <lastmod>2022-11-09T08:26:55+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://dnbcode.dev.s3-website.ap-northeast-2.amazonaws.com/newmember.html</loc>
+   <lastmod>2022-11-09T08:26:54+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://dnbcode.dev.s3-website.ap-northeast-2.amazonaws.com/Portfolio/center/bin/html/login_main.html</loc>
+   <lastmod>2022-11-09T08:18:24+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://dnbcode.dev.s3-website.ap-northeast-2.amazonaws.com/Portfolio/center/bin/html/login.html</loc>
+   <lastmod>2022-11-09T08:18:24+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://dnbcode.dev.s3-website.ap-northeast-2.amazonaws.com/Portfolio/center/bin/html/cpt.html</loc>
+   <lastmod>2022-11-09T08:18:23+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>http://dnbcode.dev.s3-website.ap-northeast-2.amazonaws.com/Portfolio/center/bin/html/refrigerator.html</loc>
+   <lastmod>2022-11-09T08:18:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>http://dnbcode.dev.s3-website.ap-northeast-2.amazonaws.com/Portfolio/center/bin/html/tv.html</loc>
+   <lastmod>2022-11-09T08:18:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>http://dnbcode.dev.s3-website.ap-northeast-2.amazonaws.com/Portfolio/center/bin/html/air.html</loc>
+   <lastmod>2022-11-09T08:18:23+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+</urlset>
