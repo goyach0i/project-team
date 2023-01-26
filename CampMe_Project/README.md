@@ -3,7 +3,7 @@
 <img src="./CampMe-React/src/components/images/mainpage.png" style="max-width: 600px;">  
 
 - 주제 : 캠핑장 정보공유 및 소통 커뮤니티 
-- 개요 : 차량관제 프로젝트는 차량을 수기로 관리하는 업체를 대상으로 만든 프로젝트 입니다.
+- 개요 : 캠핑장 정보공유 및 소통 커뮤니티 사이트 제작 프로젝트는 캠핑을 다녀온 사람 혹은 캠핑을 가고자 계획중인 사람들을 대상으로 만든 프로젝트 입니다.
 - 프로젝트 기간 : 3주
 - 프로젝트 인원 : 3명(프론트 2, 백엔드 1)
 - 사용 기술 : React.js, Spring Boot, JPA, MySQL, Git, AWS
