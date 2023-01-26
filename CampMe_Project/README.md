@@ -1,6 +1,6 @@
 # Camp Me 🚎
 
-<img src="./CampMe-React/src/components/images/logo1.jpg" style="max-width: 600px;">  
+<img src="./CampMe-React/src/components/images/mainpage.png" style="max-width: 600px;">  
 
 - 주제 : 캠핑장 정보공유 및 소통 커뮤니티 
 - 개요 : 차량관제 프로젝트는 차량을 수기로 관리하는 업체를 대상으로 만든 프로젝트 입니다.
