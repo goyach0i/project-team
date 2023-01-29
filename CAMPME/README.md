@@ -1,63 +1,21 @@
-## CAMP ME 🚎
+# Camp Me 🚎
 
-    캠핑장 커뮤니티 플랫폼
+<img src="./CampMe-React/src/components/images/mainpage.png" style="max-width: 600px;">  
 
-### 개발 환경
+- 주제 : 캠핑장 정보공유 및 소통 커뮤니티 
+- 개요 : 캠핑장 정보공유 및 소통 커뮤니티 사이트 제작 프로젝트는 캠핑을 다녀온 사람 혹은 캠핑을 가고자 계획중인 사람들을 대상으로 만든 프로젝트 입니다.
+- 프로젝트 기간 : 3주
+- 프로젝트 인원 : 3명(프론트 2, 백엔드 1)
+- 사용 기술 : React.js, Spring Boot, JPA, MySQL, Git, AWS
+- 담당 업무 : 총 페이지 디자인 설계 및 제작, 데이터베이스 연동, 에러코드 및 오류 수정작업 (Front-end)
+- 세부 업무 : 총 페이지 디자인, 에디터를 활용한 글쓰기페이지 제작, 회원가입과 로그인페이지 개발
 
-- npm ^8.19.3
-- react ^18.2.0
-- create-react-app ^18.2.0
-- react-router-dom ^6.6.1
-- react-hook-form ^7.41.5
-- "react-toastify": "^9.1.1"
-- "sweetalert": "^2.1.2"
-- axios ^1.2.2
+- 느낀점 : 
+    - git으로 프로젝트를 관리하며 개인프로젝트때 느끼지 못한 commit 충돌 이슈와 팀원간 소통 중요성을 느꼈습니다.
+    - 정확한 정보전달의 중요성과 clean code의 중요성을 느꼈습니다.
+    - 글쓰기페이지 부분에서 Editor를 사용할 때 사진파일을 불러오는 부분에서 오류가 많이 생겨 시간이 오래걸렸는데, 좀 더 자세히 알아보고 사용했더라면 하는 아쉬움이 있었습니다.
 
-### 프로젝트 구조
-
-```bash
-┌── src
-│   ├── common (공용 기능)
-│   │   └── settings.js
-│   ├── components
-│   │    ├── Board (게시판 글목록 (후기, 지역별모임))
-│   │    ├── BoardDetail (게시글 세부내용)
-│   │    ├── BoardStyle (게시판 css)
-│   │    ├── BoardWrite (게시글 작성)
-│   │    ├── Find (비밀번호 찾기)
-│   │    ├── Footer (페이지 하단 고정)
-│   │    ├── Header (페이지 상단 고정)
-│   │    ├── images (사진 폴더)
-│   │    ├── Join (회원가입)
-│   │    ├── Loading (API 연결 전 로딩화면)
-│   │    ├── Login (로그인)
-│   │    ├── Section (메인페이지 중앙)
-│   │    └── SimpleSlide (메인페이지 슬라이드)
-│   ├── libs
-│   │    └── alert.js (toastify 안내창)
-│   ├── App.js (프로젝트 중심페이지 (Router))
-│   └── App.css (프로젝트 중심페이지 css)
-│
-└── public
-    └── index.html
-```
-
-### Organizer
-
-- 최윤도 (96CHOI)
-- 장영주 (JJang young)
-
-### 설치한 VSCode Extensions
-
-- ES7 React/Redux/GraphQL/React-Native snippets
-- Simple React Snippets
-- React Native Snippet
-- Prettier
-- ESLint
-- Material Icon Theme
-
-### 시작 방법
-
-1. cd ./CAMPME-REACT
-2. npm install
-3. npm start
+- 보완점 :
+    - Redux를 사용하지 못해 회원가입, 로그인을 포함한 모든 정보를 Props 또는 local storage에 영구 저장하여 무조건
+      로그아웃 (window.localStorage.clear();) 코드로 지워줘야하는 이슈. 
+    - Code를 좀 더 Clean하게 작성하지 못한 아쉬움.
