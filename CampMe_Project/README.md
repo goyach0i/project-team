@@ -1,6 +1,6 @@
 # Camp Me 🚎
 
-<img src="./CAMPME/CampMe-React/src/components/images/campme.jpg" style="max-width: 600px;">  
+<img src="./CAMPME/src/components/images/campme.jpg" style="max-width: 600px;">  
 
 - 주제 : 캠핑장 정보공유 및 소통 커뮤니티 
 - 개요 : 캠핑장 정보공유 및 소통 커뮤니티 사이트 제작 프로젝트는 캠핑을 다녀온 사람 혹은 캠핑을 가고자 계획중인 사람들을 대상으로 만든 프로젝트 입니다.
