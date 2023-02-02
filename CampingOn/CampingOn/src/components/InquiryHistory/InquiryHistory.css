@@ -1,0 +1,104 @@
+/* 답변 */
+.questionMyInquiry {
+  width: 100%;
+  height: 200px;
+  margin: 5px 0;
+}
+.answerMyInquiry {
+  width: 100%;
+  border: 1px solid lightgray;
+  color: #363434;
+}
+.answerMyInquiryTitle {
+  padding: 5%;
+  background-color: lightgray;
+}
+.answerMyInquiryText {
+  padding: 5%;
+  width: 90%;
+}
+
+/* 문의 테이블 */
+
+.inquiryTable {
+  border: none;
+}
+
+.inquiryTable tr {
+  width: 100%;
+}
+
+.inquiryNumber {
+  width: 15%;
+  text-align: center;
+}
+
+.inquiryTitle {
+  width: 55%;
+  text-align: center;
+}
+
+.inquiryDate {
+  width: 15%;
+  text-align: center;
+}
+
+.answerStatus {
+  width: 15%;
+  text-align: center;
+}
+
+.wholeWrapMyPageMedia {
+  display: none;
+}
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+  .wholeWrapMyPageMedia {
+    display: block;
+  }
+  .mediaWrapCampingHistoryDeskFlex {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    height: 100vh;
+  }
+  .campingHistoryMypageWrap {
+    width: 50%;
+    height: 80vh;
+  }
+  .wholeWrapCampingHistory {
+    display: block;
+    width: 50%;
+    height: 80vh;
+    top: 10px;
+    position: absolute;
+    right: 0;
+    box-shadow: 0px 0px 1px 1px lightgray;
+    border-radius: 10px;
+    overflow: auto;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  .mediaWrapCampingHistoryDeskFlex {
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+  }
+  .campingHistoryMypageWrap {
+    width: 40%;
+    height: 100%;
+    text-align: center;
+    display: inline-block;
+  }
+  .wholeWrapCampingHistory {
+    width: 60%;
+    box-shadow: 0px 0px 1px 1px lightgray;
+    border-radius: 10px;
+    margin-top: 10px;
+    height: 80vh;
+    overflow: auto;
+    /* position: sticky; */
+    right: 0;
+  }
+}

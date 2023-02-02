@@ -1,0 +1,155 @@
+.titleFontMyReservation {
+  margin: 0 auto;
+  margin-bottom: 20px;
+  height: 60px;
+  line-height: 80px;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 100;
+  width: 110px;
+  border-bottom: 2px solid black;
+}
+/* 메뉴바 */
+.menuBarMyReservation {
+  width: 100%;
+  height: 38px;
+  line-height: 38px;
+  font-size: 22px;
+  display: flex;
+  border-bottom: 1px solid grey;
+  border-top: 1px solid grey;
+  justify-content: space-evenly;
+  background-color: var(--secondary-color);
+  cursor: pointer;
+}
+/* List */
+/* ListMyReservation.js, CacelListMyreservation.js*/
+.tableMyReservationList,
+.tableCancelMyReservationList {
+  margin: 0 auto;
+  margin-top: 20px;
+  width: 90%;
+  border: 1px solid gray;
+  border-collapse: collapse;
+}
+.tableMyReservationList tr td,
+.tableCancelMyReservationList tr td {
+  height: 30px;
+  border: 1px solid gray;
+  padding: 0 10px;
+  font-size: 15px;
+  cursor: pointer;
+  text-align: center;
+}
+.MyReservationNum {
+  width: 67px;
+}
+.MyReservationSite {
+  width: 50px;
+}
+
+/* ShowMyReservation.js, ShowCancelMyReservation.js*/
+.tableiInformationMyReservation,
+.tableUserMyReservation {
+  margin: 0 auto;
+  margin-top: 20px;
+  width: 90%;
+  border: 1px solid gray;
+  border-collapse: collapse;
+}
+.titleMyReservation {
+  width: 150px;
+  height: 38px;
+  line-height: 38px;
+  font-size: 25px;
+  padding-left: 5px;
+}
+.showTitleMyReservation {
+  background: var(--secondary-color);
+}
+.tableiInformationMyReservation tr td,
+.tableUserMyReservation tr td {
+  height: 30px;
+  border: 1px solid gray;
+  padding: 0 10px;
+  font-size: 20px;
+}
+.tableTitleMyReservation {
+  width: 110px;
+}
+
+/* 버튼 */
+.divButtonMyReservation {
+  margin: 0 auto;
+  margin-top: 25px;
+  width: 250px;
+  display: flex;
+}
+.buttonMyReservation {
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+.userButtonMyReservation {
+  width: 100px;
+  height: 35px;
+  font-size: 20px;
+  background-color: white;
+  border: 1px solid grey;
+}
+.wholeWrapMyPageMedia {
+  display: none;
+}
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+  .wholeWrapMyPageMedia {
+    width: 40%;
+    height: 100%;
+    text-align: center;
+    display: inline-block;
+  }
+  .mediaWrapCampingHistoryDeskFlex {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    height: 100vh;
+  }
+  .campingHistoryMypageWrap {
+    width: 50%;
+    height: 80vh;
+  }
+  .wholeWrapCampingHistory {
+    display: block;
+    width: 50%;
+    height: 80vh;
+    top: 10px;
+    position: absolute;
+    right: 0;
+    box-shadow: 0px 0px 1px 1px lightgray;
+    border-radius: 10px;
+    overflow: auto;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  .mediaWrapCampingHistoryDeskFlex {
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+  }
+  .wholeWrapMyPageMedia {
+    width: 40%;
+    height: 100%;
+    text-align: center;
+    display: inline-block;
+  }
+  .wholeWrapCampingHistory {
+    width: 60%;
+    box-shadow: 0px 0px 1px 1px lightgray;
+    border-radius: 10px;
+    margin-top: 10px;
+    height: 80vh;
+    overflow: auto;
+    /* position: sticky; */
+    right: 0;
+  }
+}

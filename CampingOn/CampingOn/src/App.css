@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  width: 100%;
+  margin: 0 auto;
+}
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+  .container {
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  .container {
+    width: 1200px;
+  }
+}
