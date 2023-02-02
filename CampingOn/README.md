@@ -1,4 +1,4 @@
-# Camp Me 🚎
+# Camping On 🚎
 
 <img src="./CampingOn/src/images/campingOnBanner.png" style="max-width: 600px;">
 
